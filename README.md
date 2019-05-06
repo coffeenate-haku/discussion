@@ -7,15 +7,15 @@ This repo is to manage all discussion and design asset of Coffenate.
 
 ## 1. Table of Contents 
 
-- i.    Table of Contents
-- ii.   Introduction 
-- iii.  Links 
-- iv.   Development Setup
-- v.    Features
-- vi.   Management Accounts
-- vii.  Technology & Design Stack 
-- viii. Design _8.1. Logo Design _8.2. Desktop Design
-- ix.   License
+- &nbsp;&nbsp;&nbsp;&nbsp;i.    [Table of Contents](https://github.com/coffeenate-haku/#TableofContents)
+- &nbsp;&nbsp;&nbsp;ii.   [Introduction](https://github.com/coffeenate-haku/#Introduction)
+- &nbsp;&nbsp;iii.  [Links](https://github.com/coffeenate-haku/#Introduction/Links) 
+- &nbsp;&nbsp;iv.   [Development Setup](https://github.com/coffeenate-haku/#DevelopmentSetup)
+- &nbsp;&nbsp;&nbsp;v.    [Features](https://github.com/coffeenate-haku/#Features)
+- &nbsp;&nbsp;vi.   [Management Accounts](https://github.com/coffeenate-haku/#ManagementAccounts)
+- &nbsp;vii.  [Technology & Design Stack](https://github.com/coffeenate-haku/#TechnologyDesignStack)
+- viii. [Design](https://github.com/coffeenate-haku/#Design) _8.1. [Logo Design](https://github.com/coffeenate-haku/#LogoDesign)_8.2. [Desktop Design](https://github.com/coffeenate-haku/#DesktopDesign)
+- &nbsp;&nbsp;ix.   [License](https://github.com/coffeenate-haku/#License)
 
 ## 2.  Introduction 
 
@@ -51,10 +51,9 @@ Schedule for this full stack project:
 - Protect ```master``` branches
   - 
 - Setup project with linked repositories 
-  - 
+
 
 ## 5. Features 
-- 
 
 ## 6. Management Accounts
 
@@ -62,10 +61,12 @@ Schedule for this full stack project:
 
 ## 8. Design 
 ### 8.1. Logo Design 
+
 Figma: https://www.figma.com/file/GrXqEANqKsSvFu3N5yGnNd/Coffeenate?node-id=0%3A1
 ![Main Logo](./assets/logo/logo-main.svg)
 
 ### 8.2. Desktop Design 
+
 Figma: https://www.figma.com/file/GrXqEANqKsSvFu3N5yGnNd/Coffeenate?node-id=0%3A1
 ![Landing](./assets/desktop/landing.png)
 ![SearchPage](./assets/desktop/search-page.png)
