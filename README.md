@@ -2,20 +2,20 @@
 
 This repo is to manage all discussion and design asset of Coffenate. 
 
-- Frontend Data Documentation 
-- Backend API Documentation 
+- [Frontend Data Documentation](https://github.com/coffeenate-haku/frontend)
+- [Backend API Documentation](https://github.com/coffeenate-haku/backend) 
 
 ## 1. Table of Contents 
 
-- &nbsp;&nbsp;&nbsp;&nbsp;i.    [Table of Contents](https://github.com/coffeenate-haku/#TableofContents)
-- &nbsp;&nbsp;&nbsp;ii.   [Introduction](https://github.com/coffeenate-haku/#Introduction)
-- &nbsp;&nbsp;iii.  [Links](https://github.com/coffeenate-haku/#Introduction/Links) 
-- &nbsp;&nbsp;iv.   [Development Setup](https://github.com/coffeenate-haku/#DevelopmentSetup)
-- &nbsp;&nbsp;&nbsp;v.    [Features](https://github.com/coffeenate-haku/#Features)
-- &nbsp;&nbsp;vi.   [Management Accounts](https://github.com/coffeenate-haku/#ManagementAccounts)
-- &nbsp;vii.  [Technology & Design Stack](https://github.com/coffeenate-haku/#TechnologyDesignStack)
-- viii. [Design](https://github.com/coffeenate-haku/#Design) _8.1. [Logo Design](https://github.com/coffeenate-haku/#LogoDesign)_8.2. [Desktop Design](https://github.com/coffeenate-haku/#DesktopDesign)
-- &nbsp;&nbsp;ix.   [License](https://github.com/coffeenate-haku/#License)
+- &nbsp;&nbsp;&nbsp;&nbsp;i. [Table of Contents](#TableofContents)
+- &nbsp;&nbsp;&nbsp;ii. [Introduction](#Introduction)
+- &nbsp;&nbsp;iii. [Links](#Links) 
+- &nbsp;&nbsp;iv. [Development Setup](#DevelopmentSetup)
+- &nbsp;&nbsp;&nbsp;v. [Features](#Features)
+- &nbsp;&nbsp;vi. [Management Accounts](#ManagementAccounts)
+- &nbsp;vii. [Technology & Design Stack](#TechnologyDesignStack)
+- viii. [Design](#Design) _8.1. [Logo Design](#LogoDesign)_8.2. [Desktop Design](#DesktopDesign)
+- &nbsp;&nbsp;ix. [License](#License)
 
 ## 2.  Introduction 
 
