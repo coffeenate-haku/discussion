@@ -28,10 +28,10 @@ Schedule for this full stack project:
 
 ## 3.   Links 
 - Organization: 
-  - [https://github.com/coffeenate-haku]
+  - https://github.com/coffeenate-haku
 - Repositories: 
-  - [https://github.com/coffeenate-haku/frontend]
-  - [https://github.com/coffeenate-haku/backend]
+  - https://github.com/coffeenate-haku/frontend
+  - https://github.com/coffeenate-haku/backend
 
 ## 4.  Development Setup
 - Determine a team/app name
@@ -41,13 +41,13 @@ Schedule for this full stack project:
 - Create a Github account
   - 
 - Update organization profile in settings
-  - [https://github.com/coffeenate-haku/settings/profile]
+  - https://github.com/coffeenate-haku/settings/profile
 - Add team members on Github
-  - [https://github.com/orgs/coffeenate-haku/people]
+  - https://github.com/orgs/coffeenate-haku/people
 - Setup repositores 
-  - ```primary```: [https://github.com/orgs/coffeenate-haku/]
-  - ```frontend```: [https://github.com/coffeenate-haku/frontend]
-  - ```backend``` : [https://github.com/coffeenate-haku/backend]
+  - ```primary```: https://github.com/orgs/coffeenate-haku/
+  - ```frontend```: https://github.com/coffeenate-haku/frontend
+  - ```backend``` : https://github.com/coffeenate-haku/backend
 - Protect ```master``` branches
   - 
 - Setup project with linked repositories 
@@ -59,5 +59,8 @@ Schedule for this full stack project:
 ## 8. Design 
 ### 8.1. Logo Design 
 Figma: https://www.figma.com/file/GrXqEANqKsSvFu3N5yGnNd/Coffeenate?node-id=0%3A1
+![Main Logo](./logo/logo-main.svg)
 
-[]
+### 8,2. Desktop Design 
+Figma: https://www.figma.com/file/GrXqEANqKsSvFu3N5yGnNd/Coffeenate?node-id=0%3A1
+ 
