@@ -56,11 +56,23 @@ Schedule for this full stack project:
 ## 5. Features 
 - 
 
+## 6. Management Accounts
+
+## 7. Technology & Design Stack
+
 ## 8. Design 
 ### 8.1. Logo Design 
 Figma: https://www.figma.com/file/GrXqEANqKsSvFu3N5yGnNd/Coffeenate?node-id=0%3A1
-![Main Logo](./logo/logo-main.svg)
+![Main Logo](./assets/logo/logo-main.svg)
 
-### 8,2. Desktop Design 
+### 8.2. Desktop Design 
 Figma: https://www.figma.com/file/GrXqEANqKsSvFu3N5yGnNd/Coffeenate?node-id=0%3A1
- 
+![Landing](./assets/desktop/landing.png)
+![SearchPage](./assets/desktop/search-page.png)
+![ResultPage](./assets/desktop/result-page.png)
+
+## 9. License 
+- MIT License
+- Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+
+
